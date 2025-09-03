@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "text": "Read book",
+    "classification": "signal",
+    "confidence": 0.9,
+    "created_at": "01-09-2025_2_AM"
+  },
+  {
+    "id": 2,
+    "text": "Read a Python book",
+    "classification": "general",
+    "confidence": 0.5,
+    "created_at": "03-09-2025_06_PM"
+  },
+  {
+    "id": 3,
+    "text": "Read a Python book",
+    "classification": "signal",
+    "confidence": 0.5,
+    "created_at": "03-09-2025_07_PM"
+  },
+  {
+    "id": 4,
+    "text": "scroll social media",
+    "classification": "signal",
+    "confidence": 0.5,
+    "created_at": "03-09-2025_08_PM"
+  },
+  {
+    "id": 5,
+    "text": "study",
+    "classification": "signal",
+    "confidence": 0.5,
+    "created_at": "03-09-2025_08_PM"
+  },
+  {
+    "id": 6,
+    "text": "scroll social media",
+    "classification": "signal",
+    "confidence": 0.5,
+    "created_at": "03-09-2025_08_PM"
+  }
+]
